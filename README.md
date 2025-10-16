@@ -19,7 +19,7 @@ Hello! I'm Zakharov Mark, an aspiring QA Engineer currently undergoing comprehen
 - **Test Design:** Test Cases, Checklists, Test Plans
 - **Testing Types:** Functional, Web, Mobile
 - **Process Knowledge:** SDLC, STLC, CI/CD
-- **Bug Tracking:** Jira, YouTrack (или другие, если изучал)
+- **Bug Tracking:** Jira, YouTrack 
 
 ### Test Automation (Learning & Practice)
 - **JavaScript:** Cypress.io
